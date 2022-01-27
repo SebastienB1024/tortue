@@ -35,7 +35,7 @@ t1.speed(10)
 
 # escalier(t,5,30)
 
-taille = 30
+taille = 20
 
 for i in range (0,4):
     carres(t1,taille,20)
